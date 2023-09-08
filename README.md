@@ -14,7 +14,6 @@
         <title>Complete Responsive Portfolio Website</title>
     </head>
     <body>
-    <h1>hi</h1>
 
          <!-- HEADER -->
          <header class="l-header">
